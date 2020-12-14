@@ -1,0 +1,170 @@
+[
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "compilers/react"
+    },
+    "isSymlink": false,
+    "hash": "acfc8a808ec3ad8abacd313c9c8b456c1fd7b0b3"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "internal/get-babel-options"
+    },
+    "isSymlink": false,
+    "hash": "d4771e232e52a7a9ef391bf363d523bc932b014d"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "internal/babel-base-compiler"
+    },
+    "isSymlink": false,
+    "hash": "98f497a5e1cba818d2d5da02020ed566a572b936"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/compiler-types"
+    },
+    "isSymlink": false,
+    "hash": "9c86fadf101414c730daf20f3b3c0b3adcd84e79"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/create-workspace"
+    },
+    "isSymlink": false,
+    "hash": "6b4cdb50159308c72de7a4291fc551540ba4a390"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/get-capsule-name"
+    },
+    "isSymlink": false,
+    "hash": "26aefd5aeef44fe4baf09eb442719418744f2d7d"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/build-component"
+    },
+    "isSymlink": false,
+    "hash": "4046cf768d7527702d0d1393e876cf12efe18835"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/has-own-property"
+    },
+    "isSymlink": false,
+    "hash": "68b489f0ac79f13787c77dc1fd6a7beb18a7b6ba"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/group-by"
+    },
+    "isSymlink": false,
+    "hash": "9155f60c15a0d4c1c0301f15ef2a09a99687ca77"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "loading"
+    },
+    "isSymlink": true,
+    "hash": "14b85fa8e87f846f757eaccda09761641b397f01"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "store"
+    },
+    "isSymlink": true,
+    "hash": "3a21295d813c26eb287fc6b59454fb37858d63e6"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "task"
+    },
+    "isSymlink": true,
+    "hash": "7fbb727db4b2b6715b092505673cb5922a0d63a8"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "task-list"
+    },
+    "isSymlink": true,
+    "hash": "87a2f9bef7bf688d43b64615804f796c59f784b3"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "task-reducer"
+    },
+    "isSymlink": true,
+    "hash": "e29bb1d2d7a635ab00c4f1751aa7ac702e9b52b9"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "task-screens"
+    },
+    "isSymlink": true,
+    "hash": "ae3634ae27aa79780199ae573ab3c8d41de44a7a"
+  },
+  {
+    "id": {
+      "scope": "erajkamdar.storybook",
+      "name": "loading"
+    },
+    "isSymlink": false,
+    "hash": "a1c7ce00b6dceb84f9b750e15b2ca02ee7015c6d"
+  },
+  {
+    "id": {
+      "scope": "erajkamdar.storybook",
+      "name": "store"
+    },
+    "isSymlink": false,
+    "hash": "192ad16536860edc4f4239a77b35d58e10deb6a2"
+  },
+  {
+    "id": {
+      "scope": "erajkamdar.storybook",
+      "name": "task"
+    },
+    "isSymlink": false,
+    "hash": "1c67f9bd2dfdc822e97590a5775c210c862ed6fd"
+  },
+  {
+    "id": {
+      "scope": "erajkamdar.storybook",
+      "name": "task-list"
+    },
+    "isSymlink": false,
+    "hash": "6f42b8b2e8282253bc174842e36a38877f4ab79f"
+  },
+  {
+    "id": {
+      "scope": "erajkamdar.storybook",
+      "name": "task-reducer"
+    },
+    "isSymlink": false,
+    "hash": "fb299b9acaf75d2ee18f9c2a4679c6b402f579b3"
+  },
+  {
+    "id": {
+      "scope": "erajkamdar.storybook",
+      "name": "task-screens"
+    },
+    "isSymlink": false,
+    "hash": "e774d3edab0068a44081cb658bb9a9c49df499f7"
+  }
+]
